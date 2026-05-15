@@ -1,4 +1,4 @@
-# 
+# exclusive ftx trading bot | webhook-support + liquidation-sniping offers the most advanced ftx trading bot, with webhook-support and liquidation-sniping. Ideal for professional
 
 
 
